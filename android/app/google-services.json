@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "905512178487",
+    "firebase_url": "https://testtrackerapp-75df4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testtrackerapp-75df4",
+    "storage_bucket": "testtrackerapp-75df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905512178487:android:d28a925f2b09ca32f200b2",
+        "android_client_info": {
+          "package_name": "TestTrackerApp.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905512178487-2pfju7asec0rhp022rdc3qea27obm206.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "TestTrackerApp.io",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "905512178487-sc1185q3j58jrdl8ldph0l5vtjkqa3om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGI8UpzcE4Lf_OGBaaspB8RCOoaSvRktA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905512178487-sc1185q3j58jrdl8ldph0l5vtjkqa3om.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905512178487-ovbrbvervntll3q5rh61nj2972eovs0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TestTrackerApp.io"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
